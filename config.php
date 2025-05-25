@@ -1,10 +1,9 @@
 <?php
-//test
 // DNC MON System Configuration File
 // ملف إعدادات النظام
 
 // إعدادات قاعدة البيانات
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'localhostw');
 define('DB_NAME', 'dnc_mon_system');
 define('DB_USER', 'root');
 define('DB_PASS', '');
